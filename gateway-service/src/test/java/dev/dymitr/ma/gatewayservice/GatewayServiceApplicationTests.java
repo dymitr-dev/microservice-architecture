@@ -1,4 +1,4 @@
-package dev.dymitr.scannerify.gatewayservice;
+package dev.dymitr.ma.gatewayservice;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
